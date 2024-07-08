@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop - FASHIONASTAR</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <nav class="navbar">
+                <a href="index.html" class="logo">FASHIONASTAR</a>
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="shop.html">Shop</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+                <a href="cart.html" class="cta-button">cart</a>
+            </nav>
+        </div>
+    </header>
+    <section class="shop">
+        <div class="container">
+            <h1>Welcome to Our Shop</h1>
+            <p>Browse our collection of fashion essentials.</p>
+            <section class="featured-products">
+                <h2>Trending Products</h2>
+                <div class="products-grid">
+                    <div class="product">
+                        <img src="images/leatherjacket.jpg" alt="Leather Jacket">
+                        <h3>Leather Jacket</h3>
+                        <p>₹299</p>
+                        <button onclick="addToCart('Leather Jacket', 299, 'images/leatherjacket.jpg')">Add to Cart</button>
+                    </div>
+                    <div class="product">
+                        <img src="images/product2.jpg" alt="Product 2">
+                        <h3>Product 2</h3>
+                        <p>₹250</p>
+                        <button onclick="addToCart('Product 2', 250, 'images/product2.jpg')">Add to Cart</button>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2024 FASHIONASTAR. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="cart.js"></script>
+</body>
+</html>
+            
