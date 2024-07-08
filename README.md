@@ -5,11 +5,11 @@ This repository contains the projects completed as part of the CodSoft Web Devel
 
 Projects
 
-1. HTML Portfolio
-Description:
-This project is a personal portfolio website created using HTML and CSS. It showcases personal information, skills, projects, and contact details.
+## 1. HTML Portfolio
 
-Features:
+Description: This project is a personal portfolio website created using HTML and CSS. It showcases personal information, skills, projects, and contact details.
+
+### Features:
 
 * Header Section: Includes the user's name or logo.
 * About Section: Contains an image and a brief bio.
@@ -19,11 +19,11 @@ Features:
 * Contact Section: Includes a contact form and social media links.
 * Footer Section: Contains additional links or copyright information.
 
-2. E-commerce Landing Page
+## 2. E-commerce Landing Page
 
 Description: This project is an e-commerce landing page designed to attract and engage potential customers. It is built using HTML and CSS.
 
-Features:
+### Features:
 
 * Header Section: Includes the company logo and navigation links.
 * Hero Section: Features a prominent image and a call-to-action button.
@@ -31,10 +31,10 @@ Features:
 * Testimonials: Contains customer reviews and testimonials.
 * Footer Section: Includes contact information, social media links, and additional resources.
 
-3. Simple Calculator
+## 3.Simple Calculator
 Description: This project is a simple calculator created using HTML and CSS. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-Features:
+### Features:
 
 * Display Screen: Shows the input and output of calculations.
 * Number Buttons: Allows users to input numbers.
